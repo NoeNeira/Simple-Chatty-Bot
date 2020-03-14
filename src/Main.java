@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args){
 
-        System.out.println("Hello! My name is RobotName.");
+        System.out.println("Hello! My name is RoboTito.");
         System.out.println("I was created in 2020.");
         System.out.println("Please, remind me your name.");
 
